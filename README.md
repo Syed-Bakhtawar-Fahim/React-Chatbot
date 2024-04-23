@@ -2,6 +2,9 @@
 
 This is a simple React chat interface utilizing OpenAI's GPT models to provide conversational responses. Users can interact with the chat interface by sending messages, and ChatGPT will respond accordingly.
 
+# Purpose
+Developed for testing of API-KEY
+
 ## Features
 
 - User-friendly interface
